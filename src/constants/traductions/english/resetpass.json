@@ -1,0 +1,10 @@
+{
+  "reset": "Reset Password",
+  "mail": "Email",
+  "send": "Send",
+  "next": "Next",
+  "prev": "Prev",
+  "code": "Enter the code that was sent via e-mail",
+  "confirm": "Confirm",
+  "confpass": "Confirm Password"
+}

@@ -1,0 +1,23 @@
+{
+    "signup":"Sign Up",
+    "image":"Picture",
+    "nameAr":"Full Name Arabic",
+    "nameEn":"Full Name English",
+    "email":"Email",
+    "phone":"Phone",
+    "password":"Password",
+    "confirmPassword":"Confirm Password",
+    "errorPassword":" Password and confirm password are not muched",
+    "address":"Address",
+    "country":"Country",
+    "city":"City",
+    "functionalArea":"Functional Area",
+    "educationLevel":"Education Level",
+    "jobTitle":"Job Title",
+    "btnSignup":"Create An Account"
+    
+    
+    
+    
+    
+    }

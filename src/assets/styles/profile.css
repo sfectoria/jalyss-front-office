@@ -1,0 +1,182 @@
+@media only screen and (max-width: 600px){ 
+    .nav{
+        width: 343px;
+
+    }
+}
+@media only screen and (min-width: 768px){
+    .nav{
+        width: 1117px;
+
+    }
+ }
+
+ .upbtn{
+    width: 30px !important;
+    height:  30px !important;
+    text-align: center !important;
+    border-radius: 100% !important;
+    background-color: #4a0e65 !important;
+
+  }
+
+  .upbtn:hover{
+    background-color: #3a0b5042 !important;
+    border-radius: 20px !important;
+  }
+ 
+.edit-form{
+    width: 735px !important;
+}
+
+
+.label-btn {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.label-btn:hover {
+  background-color: #f5f5f5;
+}
+
+.navbar-nav{
+    width: auto !important ;
+    display:flex !important ;
+    flex-direction:row !important;
+    flex-wrap: wrap  !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    white-space:nowrap !important;
+    }
+
+
+
+   /* this code is for the orders history */
+   .command-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .command-card {
+    background-color: #ffffff;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .command-card h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  .command-card p {
+    font-size: 14px;
+    margin-bottom: 4px;
+  }
+  
+  .command-card ul {
+    margin-top: 8px;
+    padding-left: 16px;
+  }
+  
+  .command-card li {
+    font-size: 14px;
+    margin-bottom: 2px;
+  }
+  
+
+  .cancel-button{
+    display: inline-block;
+    padding: 3px;
+    text-decoration: none;
+    color: #333;
+    border-radius: 4px;
+  }
+
+  .save-button{
+    display: inline-block;
+    padding: 3px;
+    text-decoration: none;
+    color: #333;
+    border-radius: 4px;
+  }
+  .delete-button {
+    margin-right: 70px;
+  color: #ffffff;
+  padding: 5px 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+}
+
+.delete-icon {
+  margin-right: 8px; /* Adjust the margin as needed */
+}
+.add-image-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-image-icon {
+  margin-right: 8px; /* Adjust the margin as needed */
+}
+.button-container {
+  margin-left: 150px;
+  display: flex;
+  gap: 10px; /* Adjust the gap between buttons */
+  justify-content: center; /* Center the buttons horizontally */
+}
+
+.cancel-button, .save-button {
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.cancel-button {
+  background-color: #f44336; /* Red color for Cancel button */
+}
+
+.save-button {
+  background-color: #4CAF50; /* Green color for Save button */
+}
+
+.material-symbols-outlined.upbtn {
+margin-top: -70px;
+  font-size: 24px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #007bff;
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.material-symbols-outlined.upbtn:hover {
+  background-color: #0056b3;
+}
+.title{
+  color: "rgb(156, 39, 176)";
+  font-weight: 'blod';
+  
+}
